@@ -1,0 +1,1785 @@
+----------------------
+2023-07-23 10:34:50.886383
+Test Accuracy of the model: 82.79
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : False
+Use candlewick data : False
+History Length : 30
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD ETH-USD SOL-USD LTC-USD XRP-USD CRO-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-07-23 15:00:35.448276
+Test Accuracy of the model: 85.47
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : False
+Use candlewick data : False
+History Length : 30
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD XRP-USD CRO-USD BNB-USD BTC-USD ETH-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-07-23 20:28:41.833687
+Test Accuracy of the model: 93.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 30
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD LTC-USD CRO-USD BTC-USD XRP-USD BNB-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-07-25 08:11:41.353466
+Test Accuracy of the model: 98.88
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+CRO-USD SOL-USD BNB-USD XRP-USD ETH-USD BTC-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-07-25 08:16:31.781706
+Test Accuracy of the model: 98.88
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD ETH-USD LTC-USD CRO-USD BNB-USD BTC-USD SOL-USD
+APL-USD
+--------------------------------------------
+2023-07-25 08:19:50.477610
+Test Accuracy of the model: 98.88
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD BTC-USD SOL-USD CRO-USD BNB-USD XRP-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-07-26 12:40:35.976573
+Test Accuracy of the model: 66.72
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BNB-USD LTC-USD SOL-USD BTC-USD ETH-USD CRO-USD XRP-USD
+APL-USD
+--------------------------------------------
+2023-07-27 09:50:20.666526
+Test Accuracy of the model: 79.90
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD
+APL-USD
+--------------------------------------------
+2023-07-27 10:46:29.308038
+Test Accuracy of the model: 82.21
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD ETH-USD LTC-USD BNB-USD BTC-USD SOL-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-07-27 11:44:31.280230
+Test Accuracy of the model: 0.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD SOL-USD XRP-USD BNB-USD CRO-USD BTC-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-07-27 11:46:42.457419
+Test Accuracy of the model: 81.75
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD BTC-USD XRP-USD LTC-USD ETH-USD BNB-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-07-27 11:51:18.781103
+Test Accuracy of the model: 81.75
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BNB-USD SOL-USD ETH-USD CRO-USD XRP-USD LTC-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-07-28 13:59:20.698212
+Test Accuracy of the model: 77.70
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD CRO-USD ETH-USD LTC-USD BNB-USD SOL-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-07-29 12:50:23.171799
+Test Accuracy of the model: 80.05
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD BNB-USD LTC-USD BTC-USD SOL-USD CRO-USD XRP-USD
+APL-USD
+--------------------------------------------
+2023-07-30 18:00:28.539998
+Test Accuracy of the model: 98.89
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD LTC-USD ETH-USD BNB-USD XRP-USD CRO-USD SOL-USD
+APL-USD
+--------------------------------------------
+2023-07-31 12:10:32.410976
+Test Accuracy of the model: 77.64
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD LTC-USD BNB-USD SOL-USD CRO-USD XRP-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-07-31 13:29:14.272568
+Test Accuracy of the model: 100.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BNB-USD LTC-USD XRP-USD ETH-USD SOL-USD BTC-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-07 15:21:47.146346
+Test Accuracy of the model: 100.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD SOL-USD XRP-USD BNB-USD ETH-USD LTC-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-07 15:23:45.375818
+Test Accuracy of the model: 100.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+CRO-USD LTC-USD SOL-USD BTC-USD ETH-USD XRP-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-07 15:27:09.520219
+Test Accuracy of the model: 100.00
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD LTC-USD CRO-USD ETH-USD XRP-USD SOL-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-09 08:08:10.400335
+Test Accuracy of the model: 43.85
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 40
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BNB-USD BTC-USD ETH-USD XRP-USD LTC-USD SOL-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-09 08:41:46.363892
+Test Accuracy of the model: 46.45
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 50
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+CRO-USD BTC-USD XRP-USD SOL-USD ETH-USD BNB-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-09 09:47:31.521739
+Test Accuracy of the model: 41.87
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 30
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD BNB-USD SOL-USD XRP-USD BTC-USD CRO-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-08-09 15:26:55.138840
+Test Accuracy of the model: 47.27
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 60
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD CRO-USD SOL-USD BTC-USD XRP-USD BNB-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-09 16:01:17.848448
+Test Accuracy of the model: 58.11
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD CRO-USD ETH-USD XRP-USD BTC-USD BNB-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-10 08:41:51.873667
+Test Accuracy of the model: 59.19
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD LTC-USD BNB-USD XRP-USD CRO-USD ETH-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-08-10 09:09:11.317728
+Test Accuracy of the model: 58.42
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 200
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD XRP-USD SOL-USD BTC-USD ETH-USD CRO-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-10 09:57:31.649864
+Test Accuracy of the model: 55.77
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : False
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD CRO-USD BTC-USD LTC-USD ETH-USD SOL-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-10 10:43:28.443099
+Test Accuracy of the model: 59.84
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD BNB-USD SOL-USD CRO-USD BTC-USD ETH-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-10 11:20:45.136738
+Test Accuracy of the model: 54.25
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : True
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+CRO-USD BNB-USD ETH-USD LTC-USD SOL-USD XRP-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-08-10 11:46:23.219011
+Test Accuracy of the model: 54.22
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD BNB-USD BTC-USD SOL-USD XRP-USD LTC-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-10 12:28:41.436632
+Test Accuracy of the model: 51.61
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD BTC-USD XRP-USD SOL-USD BNB-USD CRO-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-10 16:31:12.153302
+Test Accuracy of the model: 55.63
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD LTC-USD BTC-USD XRP-USD SOL-USD BNB-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-10 17:01:16.683976
+Test Accuracy of the model: 69.78
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD XRP-USD BTC-USD SOL-USD CRO-USD LTC-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-10 21:53:02.080202
+Test Accuracy of the model: 74.30
+Stop Loss level        : 0.06
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD ETH-USD SOL-USD LTC-USD CRO-USD BTC-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-11 08:31:20.428492
+Test Accuracy of the model: 81.70
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD LTC-USD BTC-USD SOL-USD BNB-USD XRP-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-12 11:16:02.349421
+Test Accuracy of the model: 77.58
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD XRP-USD CRO-USD BTC-USD BNB-USD SOL-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-12 12:03:08.305731
+Test Accuracy of the model: 80.58
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 100
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD SOL-USD BNB-USD LTC-USD XRP-USD CRO-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-08-12 15:59:03.633056
+Test Accuracy of the model: 81.44
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD BNB-USD SOL-USD BTC-USD ETH-USD CRO-USD XRP-USD
+APL-USD
+--------------------------------------------
+2023-08-14 11:12:47.288490
+Test Accuracy of the model: 81.29
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD SOL-USD BNB-USD XRP-USD LTC-USD CRO-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-08-14 11:33:06.369806
+Test Accuracy of the model: 81.83
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.6
+LTC-USD CRO-USD SOL-USD BTC-USD XRP-USD BNB-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-08-14 11:34:04.734727
+Test Accuracy of the model: 82.94
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.7
+ETH-USD BTC-USD SOL-USD CRO-USD XRP-USD LTC-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-14 21:04:00.354407
+Test Accuracy of the model: 83.82
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.8
+CRO-USD XRP-USD ETH-USD SOL-USD LTC-USD BTC-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-14 21:05:24.197270
+Test Accuracy of the model: 85.09
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+CRO-USD SOL-USD XRP-USD LTC-USD BNB-USD BTC-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-08-17 13:00:10.123084
+Test Accuracy of the model: 78.64
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ATOM-USD ETH-USD ETC-USD XRP-USD DOT-USD XMR-USD CRO-USD NEAR-USD TON-USD LTC-USD BCH-USD AVAX-USD LINK-USD OP-USD MATIC-USD BNB-USD SOL-USD TRX-USD BTC-USD DOGE-USD QNT-USD UNI-USD MKR-USD OKB-USD
+APL-USD
+--------------------------------------------
+2023-08-17 13:02:28.111369
+Test Accuracy of the model: 80.05
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.7
+XRP-USD BCH-USD ETH-USD BNB-USD TRX-USD AVAX-USD LTC-USD ATOM-USD UNI-USD OKB-USD MKR-USD QNT-USD LINK-USD MATIC-USD NEAR-USD BTC-USD XMR-USD CRO-USD DOGE-USD DOT-USD OP-USD TON-USD ETC-USD SOL-USD
+APL-USD
+--------------------------------------------
+2023-08-17 13:03:51.335601
+Test Accuracy of the model: 82.91
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+ETH-USD SOL-USD TON-USD XMR-USD LTC-USD LINK-USD OKB-USD DOGE-USD BTC-USD ETC-USD BCH-USD MATIC-USD BNB-USD NEAR-USD QNT-USD TRX-USD XRP-USD MKR-USD OP-USD ATOM-USD AVAX-USD CRO-USD DOT-USD UNI-USD
+APL-USD
+--------------------------------------------
+2023-08-20 10:12:55.872551
+Test Accuracy of the model: 35.83
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD
+APL-USD
+--------------------------------------------
+2023-08-20 10:14:26.659689
+Test Accuracy of the model: 35.83
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+DOT-USD ETH-USD OKB-USD OP-USD CRO-USD QNT-USD ETC-USD MATIC-USD BTC-USD TRX-USD DOGE-USD NEAR-USD MKR-USD TON-USD LTC-USD BNB-USD ATOM-USD SOL-USD LINK-USD XRP-USD BCH-USD XMR-USD AVAX-USD UNI-USD
+APL-USD
+--------------------------------------------
+2023-08-20 10:16:08.852869
+Test Accuracy of the model: 35.83
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEAR-USD TON-USD QNT-USD XRP-USD DOT-USD BNB-USD OKB-USD BCH-USD ETC-USD MATIC-USD ETH-USD TRX-USD AVAX-USD DOGE-USD XMR-USD BTC-USD CRO-USD MKR-USD SOL-USD UNI-USD LTC-USD LINK-USD ATOM-USD OP-USD
+APL-USD
+--------------------------------------------
+2023-08-20 10:48:46.525329
+Test Accuracy of the model: 39.85
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+DOT-USD DOGE-USD NEAR-USD UNI-USD AVAX-USD ETC-USD BTC-USD QNT-USD MKR-USD ETH-USD OKB-USD MATIC-USD LINK-USD XMR-USD ATOM-USD TON-USD LTC-USD CRO-USD XRP-USD OP-USD BCH-USD TRX-USD SOL-USD BNB-USD
+APL-USD
+--------------------------------------------
+2023-08-20 10:50:10.125443
+Test Accuracy of the model: 40.00
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+MATIC-USD SOL-USD MKR-USD XRP-USD ETC-USD LTC-USD BNB-USD QNT-USD AVAX-USD OP-USD DOGE-USD ATOM-USD BCH-USD DOT-USD TON-USD TRX-USD BTC-USD LINK-USD CRO-USD ETH-USD UNI-USD NEAR-USD OKB-USD XMR-USD
+APL-USD
+--------------------------------------------
+2023-08-20 11:25:55.615681
+Test Accuracy of the model: 41.52
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+LINK-USD TRX-USD DOGE-USD OKB-USD XRP-USD OP-USD QNT-USD BTC-USD XMR-USD TON-USD ATOM-USD MATIC-USD NEAR-USD BCH-USD ETC-USD AVAX-USD SOL-USD ETH-USD DOT-USD CRO-USD BNB-USD LTC-USD UNI-USD MKR-USD
+APL-USD
+--------------------------------------------
+2023-08-20 11:42:17.976000
+Test Accuracy of the model: 39.58
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+TON-USD OKB-USD MKR-USD BNB-USD ETH-USD UNI-USD DOT-USD LTC-USD CRO-USD SOL-USD BCH-USD TRX-USD OP-USD AVAX-USD MATIC-USD ETC-USD NEAR-USD ATOM-USD DOGE-USD XMR-USD QNT-USD LINK-USD XRP-USD BTC-USD
+APL-USD
+--------------------------------------------
+2023-08-20 12:38:16.030456
+Test Accuracy of the model: 35.49
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEAR-USD BCH-USD MKR-USD BNB-USD LTC-USD XRP-USD TON-USD ATOM-USD UNI-USD AVAX-USD DOGE-USD DOT-USD XMR-USD ETH-USD MATIC-USD ETC-USD CRO-USD LINK-USD QNT-USD BTC-USD SOL-USD OP-USD OKB-USD TRX-USD
+APL-USD
+--------------------------------------------
+2023-08-21 10:12:08.682284
+Test Accuracy of the model: 39.25
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SNX-USD XDC-USD BCH-USD XMR-USD BSV-USD XTZ-USD KAVA-USD XEC-USD BTC-USD OKB-USD RUNE-USD IMX-USD ALGO-USD EOS-USD NEO-USD NEAR-USD INJ-USD LTC-USD MANA-USD SOL-USD UNI-USD EGLD-USD ATOM-USD ETH-USD THETA-USD TRX-USD DOT-USD QNT-USD LINK-USD RPL-USD TON-USD ETC-USD RNDR-USD XRP-USD CRO-USD FTM-USD AAVE-USD MKR-USD OP-USD AVAX-USD GRT-USD STX-USD BNB-USD KCS-USD SAND-USD AXS-USD DOGE-USD APE-USD MATIC-USD
+APL-USD
+--------------------------------------------
+2023-08-21 10:30:51.217024
+Test Accuracy of the model: 41.27
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+ETC-USD BCH-USD LINK-USD XMR-USD OKB-USD ALGO-USD MATIC-USD SNX-USD RUNE-USD GRT-USD THETA-USD LTC-USD BNB-USD AAVE-USD AXS-USD CRO-USD ETH-USD SAND-USD RPL-USD STX-USD BTC-USD BSV-USD TON-USD XEC-USD EOS-USD RNDR-USD IMX-USD XTZ-USD MANA-USD XRP-USD AVAX-USD MKR-USD SOL-USD DOGE-USD ATOM-USD TRX-USD KAVA-USD NEAR-USD OP-USD UNI-USD DOT-USD FTM-USD QNT-USD KCS-USD APE-USD NEO-USD INJ-USD XDC-USD EGLD-USD
+APL-USD
+--------------------------------------------
+2023-08-21 10:31:45.003729
+Test Accuracy of the model: 42.12
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.95
+UNI-USD GRT-USD XRP-USD DOGE-USD AVAX-USD XEC-USD CRO-USD ETC-USD TON-USD AXS-USD KCS-USD IMX-USD NEAR-USD THETA-USD SAND-USD KAVA-USD SOL-USD QNT-USD RNDR-USD ATOM-USD OKB-USD AAVE-USD MANA-USD XDC-USD DOT-USD RUNE-USD INJ-USD NEO-USD MKR-USD XMR-USD BCH-USD FTM-USD OP-USD STX-USD BSV-USD ETH-USD LTC-USD LINK-USD SNX-USD EOS-USD MATIC-USD ALGO-USD BTC-USD TRX-USD RPL-USD BNB-USD APE-USD EGLD-USD XTZ-USD
+APL-USD
+--------------------------------------------
+2023-08-21 10:32:25.812060
+Test Accuracy of the model: 43.85
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+ATOM-USD AVAX-USD SAND-USD DOGE-USD APE-USD NEO-USD BCH-USD MANA-USD NEAR-USD EOS-USD OP-USD RNDR-USD ETH-USD STX-USD TON-USD TRX-USD AXS-USD FTM-USD EGLD-USD BNB-USD ALGO-USD SNX-USD CRO-USD INJ-USD BSV-USD XEC-USD IMX-USD ETC-USD KCS-USD LTC-USD OKB-USD UNI-USD XMR-USD BTC-USD MATIC-USD XTZ-USD XRP-USD DOT-USD KAVA-USD RPL-USD AAVE-USD MKR-USD GRT-USD RUNE-USD LINK-USD THETA-USD XDC-USD QNT-USD SOL-USD
+APL-USD
+--------------------------------------------
+2023-08-21 10:51:33.522550
+Test Accuracy of the model: 37.33
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SNX-USD OKB-USD IMX-USD OP-USD LTC-USD DOT-USD TON-USD DOGE-USD ETH-USD BCH-USD UNI-USD MATIC-USD KAVA-USD BTC-USD XMR-USD LINK-USD ATOM-USD QNT-USD MKR-USD KCS-USD EOS-USD RNDR-USD INJ-USD CRO-USD AAVE-USD RUNE-USD AXS-USD NEAR-USD THETA-USD ALGO-USD XEC-USD MANA-USD BSV-USD SAND-USD FTM-USD TRX-USD APE-USD XTZ-USD XRP-USD ETC-USD STX-USD SOL-USD AVAX-USD BNB-USD NEO-USD RPL-USD EGLD-USD XDC-USD GRT-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:52:53.346170
+Test Accuracy of the model: 40.10
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+DOGE-USD LTC-USD EOS-USD KAVA-USD BCH-USD INJ-USD OKB-USD BSV-USD UNI-USD BNB-USD QNT-USD ALGO-USD SOL-USD XRP-USD TRX-USD BTC-USD ETC-USD STX-USD KCS-USD XEC-USD GRT-USD FTM-USD EGLD-USD XTZ-USD AAVE-USD SNX-USD CRO-USD AVAX-USD AXS-USD MATIC-USD MANA-USD TON-USD RNDR-USD NEO-USD SAND-USD RUNE-USD NEAR-USD XMR-USD APE-USD RPL-USD OP-USD ETH-USD XDC-USD IMX-USD LINK-USD MKR-USD THETA-USD DOT-USD ATOM-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:54:57.374739
+Test Accuracy of the model: 41.59
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+BTC-USD UNI-USD LINK-USD NEAR-USD MKR-USD SAND-USD DOT-USD BSV-USD INJ-USD BCH-USD KCS-USD ETC-USD STX-USD XTZ-USD QNT-USD AVAX-USD MANA-USD EGLD-USD OKB-USD RNDR-USD ETH-USD BNB-USD MATIC-USD AXS-USD RPL-USD RUNE-USD FTM-USD CRO-USD XRP-USD GRT-USD AAVE-USD EOS-USD KAVA-USD XMR-USD APE-USD LTC-USD SOL-USD XDC-USD TRX-USD DOGE-USD ATOM-USD ALGO-USD TON-USD THETA-USD IMX-USD NEO-USD XEC-USD SNX-USD OP-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:55:58.980598
+Test Accuracy of the model: 43.08
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+AAVE-USD INJ-USD DOT-USD XMR-USD XTZ-USD TRX-USD SNX-USD XEC-USD MKR-USD NEO-USD THETA-USD RPL-USD STX-USD SOL-USD CRO-USD AVAX-USD FTM-USD LINK-USD OP-USD SAND-USD ATOM-USD ETC-USD ETH-USD UNI-USD QNT-USD RUNE-USD XDC-USD APE-USD KCS-USD NEAR-USD GRT-USD OKB-USD IMX-USD BSV-USD XRP-USD BNB-USD BCH-USD KAVA-USD MANA-USD RNDR-USD LTC-USD EOS-USD MATIC-USD DOGE-USD AXS-USD ALGO-USD BTC-USD TON-USD EGLD-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:56:27.826275
+Test Accuracy of the model: 41.67
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.95
+XDC-USD LTC-USD SNX-USD LINK-USD AAVE-USD RPL-USD BNB-USD EGLD-USD UNI-USD BSV-USD CRO-USD MKR-USD STX-USD INJ-USD NEO-USD XMR-USD APE-USD OP-USD DOGE-USD ALGO-USD QNT-USD IMX-USD XRP-USD BTC-USD XEC-USD SOL-USD TON-USD KAVA-USD AXS-USD AVAX-USD BCH-USD ETH-USD THETA-USD FTM-USD RUNE-USD XTZ-USD KCS-USD NEAR-USD MATIC-USD GRT-USD EOS-USD ETC-USD SAND-USD OKB-USD DOT-USD MANA-USD ATOM-USD RNDR-USD TRX-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:57:33.679243
+Test Accuracy of the model: 43.08
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+UNI-USD TRX-USD KCS-USD BSV-USD TON-USD XMR-USD DOGE-USD IMX-USD KAVA-USD XEC-USD XRP-USD AAVE-USD QNT-USD THETA-USD DOT-USD SOL-USD EOS-USD MANA-USD OP-USD LTC-USD XDC-USD OKB-USD SAND-USD CRO-USD STX-USD NEO-USD BCH-USD EGLD-USD LINK-USD XTZ-USD BTC-USD APE-USD BNB-USD SNX-USD ALGO-USD ATOM-USD FTM-USD MKR-USD ETH-USD AVAX-USD RUNE-USD MATIC-USD RNDR-USD NEAR-USD RPL-USD ETC-USD AXS-USD INJ-USD GRT-USD
+APL-USD
+--------------------------------------------
+2023-08-21 11:59:02.786095
+Test Accuracy of the model: 40.10
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEAR-USD SOL-USD ALGO-USD BCH-USD CRO-USD MANA-USD MKR-USD LINK-USD EOS-USD NEO-USD AVAX-USD XRP-USD BNB-USD OP-USD GRT-USD TON-USD EGLD-USD AXS-USD IMX-USD OKB-USD RUNE-USD ATOM-USD SNX-USD ETH-USD UNI-USD XDC-USD ETC-USD LTC-USD KAVA-USD DOT-USD SAND-USD FTM-USD STX-USD TRX-USD RNDR-USD RPL-USD QNT-USD XMR-USD KCS-USD MATIC-USD XTZ-USD THETA-USD BTC-USD DOGE-USD AAVE-USD BSV-USD INJ-USD APE-USD XEC-USD
+APL-USD
+--------------------------------------------
+2023-08-21 15:21:39.999125
+Test Accuracy of the model: 39.46
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+APE-USD MKR-USD GRT-USD BTC-USD BSV-USD DOGE-USD NEO-USD OP-USD XRP-USD AXS-USD RNDR-USD KCS-USD LTC-USD KAVA-USD EOS-USD AAVE-USD ETH-USD MATIC-USD EGLD-USD FTM-USD RUNE-USD XDC-USD UNI-USD QNT-USD XMR-USD RPL-USD XEC-USD AVAX-USD LINK-USD SNX-USD STX-USD IMX-USD XTZ-USD OKB-USD BNB-USD ATOM-USD NEAR-USD CRO-USD TRX-USD SAND-USD MANA-USD ALGO-USD THETA-USD DOT-USD ETC-USD BCH-USD INJ-USD TON-USD SOL-USD
+APL-USD
+--------------------------------------------
+2023-08-21 15:23:08.976975
+Test Accuracy of the model: 40.51
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+KAVA-USD OKB-USD NEAR-USD ETC-USD TRX-USD AAVE-USD LTC-USD SNX-USD ALGO-USD XMR-USD MATIC-USD TON-USD BTC-USD STX-USD XRP-USD GRT-USD RNDR-USD BSV-USD SAND-USD EGLD-USD SOL-USD IMX-USD AVAX-USD FTM-USD OP-USD CRO-USD DOT-USD XEC-USD APE-USD THETA-USD MANA-USD AXS-USD RUNE-USD BNB-USD ATOM-USD MKR-USD UNI-USD EOS-USD RPL-USD DOGE-USD XTZ-USD BCH-USD QNT-USD NEO-USD XDC-USD INJ-USD ETH-USD KCS-USD LINK-USD
+APL-USD
+--------------------------------------------
+2023-08-21 15:23:54.955415
+Test Accuracy of the model: 41.83
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.95
+CRO-USD OP-USD EGLD-USD APE-USD AAVE-USD KCS-USD UNI-USD TON-USD BTC-USD MKR-USD MATIC-USD EOS-USD OKB-USD RUNE-USD BSV-USD MANA-USD XTZ-USD DOT-USD INJ-USD ETH-USD SAND-USD LTC-USD LINK-USD SOL-USD NEAR-USD AVAX-USD TRX-USD RPL-USD THETA-USD XRP-USD FTM-USD IMX-USD RNDR-USD XMR-USD NEO-USD KAVA-USD XDC-USD AXS-USD BNB-USD DOGE-USD GRT-USD SNX-USD STX-USD ATOM-USD ETC-USD ALGO-USD BCH-USD QNT-USD XEC-USD
+APL-USD
+--------------------------------------------
+2023-08-21 15:26:20.969684
+Test Accuracy of the model: 41.53
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+NEO-USD DOGE-USD MANA-USD ALGO-USD SAND-USD XDC-USD XEC-USD BTC-USD XRP-USD BSV-USD QNT-USD TRX-USD BNB-USD RNDR-USD CRO-USD SNX-USD KAVA-USD MKR-USD AVAX-USD THETA-USD LTC-USD BCH-USD OKB-USD IMX-USD TON-USD ETC-USD EOS-USD KCS-USD MATIC-USD STX-USD EGLD-USD INJ-USD XMR-USD XTZ-USD ATOM-USD GRT-USD NEAR-USD SOL-USD RPL-USD LINK-USD OP-USD APE-USD DOT-USD RUNE-USD FTM-USD ETH-USD UNI-USD AXS-USD AAVE-USD
+APL-USD
+--------------------------------------------
+2023-08-22 08:43:32.512623
+Test Accuracy of the model: 41.53
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+XDC-USD THETA-USD SOL-USD OP-USD KCS-USD BCH-USD TRX-USD MKR-USD AXS-USD ETC-USD ATOM-USD MATIC-USD BSV-USD BNB-USD GRT-USD NEO-USD DOGE-USD XMR-USD EOS-USD XEC-USD STX-USD TON-USD RNDR-USD AVAX-USD OKB-USD XTZ-USD RUNE-USD UNI-USD ALGO-USD KAVA-USD EGLD-USD QNT-USD LINK-USD DOT-USD FTM-USD MANA-USD NEAR-USD LTC-USD SNX-USD RPL-USD APE-USD CRO-USD XRP-USD SAND-USD IMX-USD AAVE-USD BTC-USD INJ-USD ETH-USD
+APL-USD
+--------------------------------------------
+2023-08-22 09:05:56.308332
+Test Accuracy of the model: 38.49
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+SNX-USD MKR-USD ETH-USD KAVA-USD XEC-USD INJ-USD THETA-USD ALGO-USD TRX-USD DOT-USD QNT-USD AVAX-USD MANA-USD EGLD-USD XRP-USD ATOM-USD CRO-USD BNB-USD SOL-USD TON-USD ETC-USD GRT-USD OKB-USD RPL-USD NEAR-USD UNI-USD SAND-USD LINK-USD STX-USD AAVE-USD BTC-USD BSV-USD APE-USD RNDR-USD OP-USD DOGE-USD IMX-USD LTC-USD RUNE-USD XMR-USD MATIC-USD XDC-USD BCH-USD NEO-USD AXS-USD XTZ-USD KCS-USD FTM-USD EOS-USD
+APL-USD
+--------------------------------------------
+2023-08-22 09:09:53.994728
+Test Accuracy of the model: 37.32
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+MATIC-USD LTC-USD AXS-USD SOL-USD BCH-USD DOGE-USD XMR-USD KCS-USD TRX-USD NEO-USD APE-USD XEC-USD GRT-USD RNDR-USD OP-USD NEAR-USD IMX-USD STX-USD EOS-USD QNT-USD ETH-USD RUNE-USD AAVE-USD KAVA-USD SAND-USD CRO-USD FTM-USD LINK-USD BTC-USD RPL-USD DOT-USD ALGO-USD INJ-USD ATOM-USD THETA-USD MANA-USD UNI-USD TON-USD OKB-USD XDC-USD SNX-USD XRP-USD EGLD-USD XTZ-USD ETC-USD MKR-USD BSV-USD BNB-USD AVAX-USD
+APL-USD
+--------------------------------------------
+2023-08-22 09:18:37.915212
+Test Accuracy of the model: 37.96
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ATOM-USD FTM-USD MKR-USD KAVA-USD BSV-USD STX-USD OKB-USD MANA-USD XTZ-USD EOS-USD DOGE-USD ALGO-USD NEAR-USD ETH-USD TON-USD AVAX-USD DOT-USD UNI-USD BTC-USD CRO-USD SOL-USD XMR-USD MATIC-USD LINK-USD AAVE-USD BNB-USD AXS-USD EGLD-USD INJ-USD XDC-USD QNT-USD RNDR-USD TRX-USD IMX-USD NEO-USD KCS-USD GRT-USD BCH-USD RPL-USD RUNE-USD LTC-USD XEC-USD XRP-USD APE-USD OP-USD ETC-USD SNX-USD SAND-USD THETA-USD
+APL-USD
+--------------------------------------------
+2023-08-22 09:20:10.734332
+Test Accuracy of the model: 49.32
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.99
+MKR-USD OKB-USD TRX-USD SOL-USD NEAR-USD SNX-USD QNT-USD KCS-USD XEC-USD BTC-USD BNB-USD LTC-USD MANA-USD RUNE-USD ETH-USD APE-USD BCH-USD RNDR-USD XTZ-USD ETC-USD STX-USD BSV-USD AAVE-USD XMR-USD CRO-USD INJ-USD OP-USD MATIC-USD GRT-USD AXS-USD RPL-USD KAVA-USD DOGE-USD EOS-USD THETA-USD FTM-USD IMX-USD UNI-USD DOT-USD EGLD-USD AVAX-USD LINK-USD TON-USD XRP-USD ATOM-USD NEO-USD SAND-USD XDC-USD ALGO-USD
+APL-USD
+--------------------------------------------
+2023-08-23 13:10:26.728674
+Test Accuracy of the model: 40.16
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+AXS-USD APE-USD OP-USD XMR-USD XRP-USD XTZ-USD CRO-USD NEO-USD ETC-USD THETA-USD RPL-USD SOL-USD XDC-USD AVAX-USD FTM-USD TRX-USD LTC-USD EOS-USD QNT-USD ALGO-USD MANA-USD BCH-USD KCS-USD IMX-USD BTC-USD UNI-USD NEAR-USD TON-USD STX-USD MATIC-USD KAVA-USD GRT-USD DOGE-USD XEC-USD BNB-USD ETH-USD LINK-USD ATOM-USD OKB-USD AAVE-USD INJ-USD EGLD-USD SAND-USD SNX-USD RUNE-USD DOT-USD BSV-USD MKR-USD RNDR-USD
+APL-USD
+--------------------------------------------
+2023-08-24 08:25:01.124192
+Test Accuracy of the model: 33.65
+Stop Loss level        : 0.12
+Take Profit level    : 0.24
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD AXS-USD INJ-USD XEC-USD NEAR-USD TON-USD MATIC-USD THETA-USD AVAX-USD LINK-USD MANA-USD RUNE-USD SOL-USD RPL-USD OKB-USD ETC-USD BNB-USD LTC-USD BCH-USD APE-USD SNX-USD NEO-USD BSV-USD DOGE-USD EGLD-USD XTZ-USD OP-USD CRO-USD UNI-USD STX-USD EOS-USD AAVE-USD BTC-USD KCS-USD DOT-USD IMX-USD QNT-USD XRP-USD ATOM-USD GRT-USD MKR-USD FTM-USD ALGO-USD RNDR-USD XMR-USD SAND-USD KAVA-USD XDC-USD TRX-USD
+APL-USD
+--------------------------------------------
+2023-08-26 09:48:24.638807
+Test Accuracy of the model: 30.48
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+TON-USD EGLD-USD INJ-USD OP-USD SAND-USD IMX-USD XDC-USD FTM-USD MANA-USD BTC-USD NEAR-USD AAVE-USD STX-USD UNI-USD ATOM-USD RPL-USD KAVA-USD OKB-USD RNDR-USD KCS-USD DOGE-USD XTZ-USD BCH-USD APE-USD GRT-USD BSV-USD RUNE-USD MATIC-USD THETA-USD SOL-USD BNB-USD XMR-USD AVAX-USD MKR-USD XRP-USD LINK-USD TRX-USD CRO-USD NEO-USD AXS-USD DOT-USD ALGO-USD SNX-USD XEC-USD ETC-USD ETH-USD LTC-USD EOS-USD QNT-USD
+APL-USD
+--------------------------------------------
+2023-08-28 11:48:15.885690
+Test Accuracy of the model: 32.18
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.995
+KAVA-USD MANA-USD KCS-USD BSV-USD EOS-USD RUNE-USD ETC-USD THETA-USD FTM-USD DOGE-USD SAND-USD DOT-USD ALGO-USD XMR-USD AAVE-USD AVAX-USD INJ-USD MATIC-USD RPL-USD XDC-USD BTC-USD RNDR-USD TON-USD ETH-USD CRO-USD SNX-USD GRT-USD LINK-USD IMX-USD XEC-USD BCH-USD SOL-USD APE-USD OKB-USD OP-USD UNI-USD AXS-USD QNT-USD EGLD-USD XTZ-USD XRP-USD STX-USD BNB-USD LTC-USD ATOM-USD NEAR-USD TRX-USD MKR-USD NEO-USD
+APL-USD
+--------------------------------------------
+2023-08-28 11:49:02.742203
+Test Accuracy of the model: 29.41
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+CRO-USD SNX-USD TRX-USD UNI-USD EOS-USD OKB-USD KCS-USD TON-USD EGLD-USD SOL-USD DOT-USD THETA-USD BSV-USD GRT-USD QNT-USD XTZ-USD MKR-USD RNDR-USD STX-USD RPL-USD SAND-USD BTC-USD ALGO-USD OP-USD NEO-USD FTM-USD XRP-USD KAVA-USD MATIC-USD ATOM-USD XDC-USD AXS-USD RUNE-USD XMR-USD DOGE-USD AAVE-USD APE-USD IMX-USD LINK-USD BCH-USD XEC-USD AVAX-USD BNB-USD ETH-USD ETC-USD MANA-USD INJ-USD LTC-USD NEAR-USD
+APL-USD
+--------------------------------------------
+2023-08-28 11:54:23.819974
+Test Accuracy of the model: 32.97
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEO-USD LTC-USD TRX-USD AXS-USD ALGO-USD MATIC-USD BNB-USD DOT-USD XDC-USD RNDR-USD ATOM-USD EOS-USD TON-USD STX-USD XTZ-USD OKB-USD IMX-USD ETH-USD BCH-USD SAND-USD INJ-USD ETC-USD APE-USD FTM-USD MANA-USD RUNE-USD KAVA-USD XEC-USD QNT-USD MKR-USD BSV-USD OP-USD GRT-USD BTC-USD AAVE-USD NEAR-USD EGLD-USD XRP-USD SOL-USD AVAX-USD DOGE-USD RPL-USD KCS-USD CRO-USD THETA-USD SNX-USD LINK-USD XMR-USD UNI-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:39:05.506430
+Test Accuracy of the model: 32.97
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+SOL-USD RPL-USD GRT-USD LINK-USD DOT-USD DOGE-USD MATIC-USD INJ-USD APE-USD CRO-USD AAVE-USD KCS-USD BNB-USD BCH-USD EOS-USD BTC-USD NEO-USD MANA-USD ETC-USD ATOM-USD STX-USD RUNE-USD EGLD-USD XRP-USD OP-USD KAVA-USD XEC-USD THETA-USD BSV-USD XTZ-USD AVAX-USD XDC-USD OKB-USD ALGO-USD XMR-USD QNT-USD FTM-USD RNDR-USD NEAR-USD SNX-USD IMX-USD ETH-USD AXS-USD TRX-USD UNI-USD TON-USD SAND-USD MKR-USD LTC-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:42:33.948745
+Test Accuracy of the model: 33.33
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+INJ-USD ETH-USD UNI-USD ATOM-USD GRT-USD SAND-USD SNX-USD EGLD-USD RPL-USD OKB-USD DOGE-USD BNB-USD THETA-USD AXS-USD AVAX-USD NEO-USD BTC-USD AAVE-USD TRX-USD QNT-USD RUNE-USD DOT-USD LTC-USD ETC-USD APE-USD MKR-USD RNDR-USD OP-USD XDC-USD KCS-USD SOL-USD XEC-USD NEAR-USD XMR-USD IMX-USD XRP-USD KAVA-USD MATIC-USD ALGO-USD CRO-USD STX-USD BSV-USD XTZ-USD BCH-USD EOS-USD LINK-USD MANA-USD FTM-USD TON-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:43:59.560135
+Test Accuracy of the model: 30.77
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+BTC-USD AXS-USD EGLD-USD INJ-USD RNDR-USD XRP-USD XMR-USD THETA-USD DOT-USD MKR-USD TON-USD OKB-USD RPL-USD ALGO-USD SAND-USD SNX-USD LINK-USD BNB-USD FTM-USD AVAX-USD MANA-USD NEAR-USD NEO-USD APE-USD SOL-USD MATIC-USD TRX-USD IMX-USD UNI-USD XDC-USD KCS-USD AAVE-USD DOGE-USD LTC-USD GRT-USD XTZ-USD ETH-USD EOS-USD ETC-USD BSV-USD BCH-USD RUNE-USD KAVA-USD XEC-USD ATOM-USD STX-USD QNT-USD OP-USD CRO-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:45:56.729939
+Test Accuracy of the model: 32.38
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ETH-USD AXS-USD SOL-USD GRT-USD XEC-USD RUNE-USD RNDR-USD NEO-USD STX-USD CRO-USD OP-USD BNB-USD QNT-USD KCS-USD OKB-USD MATIC-USD SNX-USD MKR-USD KAVA-USD MANA-USD DOT-USD XMR-USD BSV-USD XDC-USD FTM-USD APE-USD TRX-USD NEAR-USD ATOM-USD TON-USD INJ-USD XRP-USD EGLD-USD AAVE-USD EOS-USD SAND-USD BCH-USD ETC-USD XTZ-USD THETA-USD LTC-USD UNI-USD IMX-USD DOGE-USD AVAX-USD ALGO-USD RPL-USD BTC-USD LINK-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:47:13.262155
+Test Accuracy of the model: 28.95
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+LTC-USD ATOM-USD NEO-USD UNI-USD MATIC-USD RPL-USD XMR-USD LINK-USD OKB-USD ETH-USD ETC-USD XTZ-USD XDC-USD BSV-USD CRO-USD MANA-USD NEAR-USD BCH-USD APE-USD MKR-USD DOT-USD STX-USD IMX-USD THETA-USD KCS-USD FTM-USD OP-USD SAND-USD RNDR-USD ALGO-USD XRP-USD BTC-USD SNX-USD EGLD-USD RUNE-USD QNT-USD SOL-USD XEC-USD AXS-USD TON-USD AVAX-USD TRX-USD KAVA-USD DOGE-USD BNB-USD AAVE-USD EOS-USD INJ-USD GRT-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:47:55.089192
+Test Accuracy of the model: 27.78
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 150
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+UNI-USD XDC-USD NEAR-USD EOS-USD TON-USD BNB-USD BSV-USD RUNE-USD NEO-USD MANA-USD BCH-USD MKR-USD ATOM-USD STX-USD IMX-USD ETH-USD EGLD-USD KAVA-USD DOGE-USD ETC-USD FTM-USD TRX-USD MATIC-USD QNT-USD RNDR-USD XEC-USD GRT-USD DOT-USD AVAX-USD XTZ-USD RPL-USD APE-USD SOL-USD BTC-USD XRP-USD ALGO-USD LTC-USD SNX-USD AXS-USD LINK-USD XMR-USD SAND-USD CRO-USD KCS-USD OKB-USD THETA-USD AAVE-USD INJ-USD OP-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:51:34.137581
+Test Accuracy of the model: 40.47
+Stop Loss level        : 0.04
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+XRP-USD EGLD-USD AXS-USD NEAR-USD RUNE-USD STX-USD LINK-USD IMX-USD BTC-USD SOL-USD SNX-USD UNI-USD BSV-USD ATOM-USD LTC-USD MANA-USD XMR-USD XEC-USD AVAX-USD XDC-USD BCH-USD SAND-USD INJ-USD KCS-USD FTM-USD ETH-USD TON-USD BNB-USD AAVE-USD TRX-USD RNDR-USD RPL-USD OP-USD OKB-USD ALGO-USD ETC-USD DOGE-USD QNT-USD GRT-USD APE-USD NEO-USD THETA-USD MKR-USD MATIC-USD EOS-USD KAVA-USD CRO-USD DOT-USD XTZ-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:54:11.098259
+Test Accuracy of the model: 44.21
+Stop Loss level        : 0.04
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ATOM-USD NEAR-USD TON-USD STX-USD DOT-USD SNX-USD DOGE-USD EOS-USD CRO-USD LINK-USD RNDR-USD LTC-USD THETA-USD ETC-USD AXS-USD OKB-USD KCS-USD XDC-USD NEO-USD BCH-USD BTC-USD IMX-USD RPL-USD KAVA-USD ALGO-USD MANA-USD TRX-USD UNI-USD AVAX-USD ETH-USD SOL-USD XMR-USD FTM-USD BNB-USD XRP-USD GRT-USD APE-USD XEC-USD MATIC-USD MKR-USD INJ-USD AAVE-USD QNT-USD OP-USD XTZ-USD EGLD-USD SAND-USD RUNE-USD BSV-USD
+APL-USD
+--------------------------------------------
+2023-08-30 09:56:30.941138
+Test Accuracy of the model: 42.41
+Stop Loss level        : 0.04
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEO-USD STX-USD OKB-USD OP-USD BCH-USD SOL-USD ETC-USD ALGO-USD BNB-USD AXS-USD KCS-USD TRX-USD SNX-USD XMR-USD DOT-USD BSV-USD SAND-USD CRO-USD RPL-USD RNDR-USD MANA-USD ETH-USD MKR-USD RUNE-USD XEC-USD EOS-USD XDC-USD UNI-USD GRT-USD FTM-USD AAVE-USD BTC-USD TON-USD LINK-USD XRP-USD THETA-USD NEAR-USD ATOM-USD LTC-USD APE-USD QNT-USD XTZ-USD KAVA-USD IMX-USD DOGE-USD AVAX-USD INJ-USD MATIC-USD EGLD-USD
+APL-USD
+--------------------------------------------
+2023-08-31 11:10:56.816124
+Test Accuracy of the model: 38.70
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+TON-USD EGLD-USD TRX-USD SNX-USD SOL-USD DOT-USD KCS-USD MATIC-USD RUNE-USD BNB-USD AAVE-USD AXS-USD LINK-USD THETA-USD XRP-USD BSV-USD RNDR-USD GRT-USD BCH-USD FTM-USD SAND-USD ALGO-USD XEC-USD ATOM-USD STX-USD MKR-USD INJ-USD BTC-USD APE-USD ETC-USD LTC-USD NEAR-USD UNI-USD QNT-USD IMX-USD XMR-USD CRO-USD EOS-USD OP-USD KAVA-USD DOGE-USD OKB-USD XTZ-USD RPL-USD MANA-USD NEO-USD ETH-USD AVAX-USD XDC-USD
+PLUG SCHW GOLD HPQ NIO M GOOG DKNG DIS KVUE COIN IQ PBR NU NVDA XOM DNA PCG AAL NUVA SU BBD NOK XPEV RIVN LI AFRM MSFT GOOGL BAC TSLA AMZN META OPEN GPS HBAN ABEC SNAP JD LCID APL RIOT SIRI KGC HPE CSCO CX BABA RUN GRAB S WFC PLTR RBLX PYPL AI USB WBD IONQ HST BSX CMCSA CCL RIG AMBA JBLU C APE PDD T UBER VALE ITUB MARA SHOP ET JNJ SWN DISH MRVL RGC GMED CVNA AMD ABCM VZ MU SOFI KEY BEKE PFE O
+--------------------------------------------
+2023-08-31 11:12:05.933275
+Test Accuracy of the model: 38.70
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+NEO-USD SOL-USD XTZ-USD MANA-USD FTM-USD LTC-USD INJ-USD SAND-USD AAVE-USD STX-USD OKB-USD EOS-USD RUNE-USD MKR-USD NEAR-USD BNB-USD RPL-USD CRO-USD XMR-USD XDC-USD ETH-USD IMX-USD KAVA-USD QNT-USD LINK-USD TON-USD XRP-USD ETC-USD ATOM-USD SNX-USD AVAX-USD EGLD-USD ALGO-USD XEC-USD OP-USD APE-USD UNI-USD DOGE-USD DOT-USD BCH-USD KCS-USD TRX-USD THETA-USD MATIC-USD BSV-USD AXS-USD RNDR-USD GRT-USD BTC-USD
+GOOG KGC DIS AAL NOK KEY WFC JBLU JNJ NIO CCL PLUG AMZN CX ITUB S SOFI T GPS MU META RUN SHOP AI CMCSA PDD VZ SCHW HPQ M CVNA UBER LI PYPL BSX RGC RIG HPE JD ABEC APL AMD VALE USB SIRI PFE WBD APE ABCM IONQ MRVL O OPEN MARA AFRM GRAB BABA KVUE DISH XPEV DNA GOLD RBLX XOM RIOT SWN AMBA NUVA PCG BBD LCID MSFT PBR GOOGL PLTR ET C GMED COIN BAC SNAP RIVN HST NU HBAN BEKE NVDA IQ TSLA SU DKNG CSCO
+--------------------------------------------
+2023-08-31 11:13:42.991657
+Test Accuracy of the model: 39.03
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+ALGO-USD TON-USD NEAR-USD SAND-USD IMX-USD ETC-USD KCS-USD CRO-USD LINK-USD EOS-USD BTC-USD THETA-USD BSV-USD QNT-USD RUNE-USD EGLD-USD GRT-USD OKB-USD ETH-USD UNI-USD AXS-USD APE-USD MANA-USD OP-USD MATIC-USD XTZ-USD RNDR-USD MKR-USD XEC-USD ATOM-USD XRP-USD XMR-USD FTM-USD SNX-USD KAVA-USD DOGE-USD BNB-USD BCH-USD LTC-USD STX-USD INJ-USD NEO-USD AAVE-USD RPL-USD AVAX-USD DOT-USD SOL-USD XDC-USD TRX-USD
+ABCM ABEC VALE PBR KVUE COIN BABA LI KEY VZ SU XPEV HPE BEKE MARA AMD GOOG IONQ NIO NU PCG CMCSA ITUB GRAB MU PLTR C SCHW META UBER RGC AAL GOLD MRVL T AMZN JNJ S PFE AMBA XOM PDD CCL AI TSLA HBAN MSFT LCID SIRI BAC DIS WFC USB IQ RIOT M HST BBD PLUG RIG NVDA RIVN WBD OPEN APL CX AFRM JD KGC CVNA GOOGL DISH RBLX NUVA DNA O SWN GPS APE JBLU PYPL SOFI DKNG NOK GMED SHOP BSX HPQ CSCO RUN ET SNAP
+--------------------------------------------
+2023-08-31 11:14:41.199078
+Test Accuracy of the model: 38.15
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.95
+MANA-USD LINK-USD AVAX-USD INJ-USD RNDR-USD MATIC-USD TON-USD DOGE-USD AAVE-USD LTC-USD XMR-USD KAVA-USD OKB-USD EGLD-USD RUNE-USD NEO-USD XRP-USD OP-USD EOS-USD SAND-USD FTM-USD SOL-USD IMX-USD NEAR-USD AXS-USD XDC-USD SNX-USD UNI-USD GRT-USD DOT-USD CRO-USD MKR-USD RPL-USD BSV-USD KCS-USD ATOM-USD BCH-USD XEC-USD ETH-USD STX-USD XTZ-USD TRX-USD THETA-USD APE-USD QNT-USD ETC-USD BNB-USD ALGO-USD BTC-USD
+MSFT ITUB PLUG PFE MARA CVNA AMD META NIO OPEN DKNG SOFI JBLU KGC AAL SCHW AFRM ABEC USB PLTR TSLA NU HBAN PDD HST IONQ DIS BEKE AMBA DNA RBLX PBR UBER M RGC PYPL GOOG SNAP SU GMED C ET NUVA JNJ HPQ GPS SHOP XPEV SWN LCID T COIN S DISH LI BABA AMZN WBD HPE KVUE NOK MRVL O NVDA MU VALE BBD RIVN CX WFC APE APL XOM AI BSX ABCM VZ IQ PCG BAC GOLD RUN RIOT CSCO JD CCL GRAB GOOGL RIG KEY CMCSA SIRI
+--------------------------------------------
+2023-08-31 11:18:47.580164
+Test Accuracy of the model: 36.89
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+DOT-USD ETH-USD IMX-USD INJ-USD MANA-USD RUNE-USD XTZ-USD ETC-USD RNDR-USD BSV-USD XDC-USD LTC-USD OP-USD NEAR-USD BTC-USD AXS-USD MKR-USD RPL-USD XEC-USD NEO-USD APE-USD SAND-USD MATIC-USD CRO-USD XMR-USD XRP-USD AAVE-USD LINK-USD ALGO-USD BCH-USD TON-USD DOGE-USD UNI-USD GRT-USD SOL-USD THETA-USD SNX-USD EOS-USD BNB-USD EGLD-USD QNT-USD TRX-USD KCS-USD AVAX-USD FTM-USD KAVA-USD STX-USD ATOM-USD OKB-USD
+JBLU CX S ET BEKE CSCO XPEV PLUG COIN APE PLTR AMZN DISH MARA DIS DNA GRAB SWN META KEY GMED OPEN C XOM AAL AMBA BABA M PDD BAC HPQ KVUE GOOGL RBLX PFE HBAN JD HST WFC ITUB AMD CCL PCG ABEC GPS USB CMCSA CVNA VALE BSX NVDA ABCM IQ VZ TSLA LI MRVL PBR SU SOFI O RGC SNAP PYPL IONQ AI DKNG SHOP AFRM NOK GOOG LCID GOLD RUN JNJ BBD WBD NIO RIG MSFT APL MU HPE NU UBER RIOT KGC SIRI T SCHW NUVA RIVN
+--------------------------------------------
+2023-08-31 11:21:43.775488
+Test Accuracy of the model: 34.80
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+INJ-USD KAVA-USD CRO-USD BNB-USD MKR-USD AVAX-USD NEO-USD TON-USD EOS-USD BTC-USD OKB-USD GRT-USD LINK-USD RPL-USD BCH-USD AAVE-USD QNT-USD IMX-USD LTC-USD SAND-USD KCS-USD ETH-USD SNX-USD MATIC-USD MANA-USD STX-USD UNI-USD XDC-USD ALGO-USD XTZ-USD XEC-USD XRP-USD SOL-USD ATOM-USD TRX-USD EGLD-USD RUNE-USD XMR-USD DOT-USD NEAR-USD AXS-USD BSV-USD DOGE-USD FTM-USD APE-USD RNDR-USD OP-USD ETC-USD THETA-USD
+BAC NU HST BABA SWN PFE AMZN T C CMCSA XPEV SOFI OPEN KEY SCHW PLTR RIVN ET ABEC VALE GPS NUVA APL RIG BSX DIS BBD XOM SU KVUE AI MU BEKE CVNA MSFT HPQ PLUG APE CCL TSLA WFC GOOG RUN META AFRM GMED SIRI IONQ SHOP JD NIO DKNG RIOT AAL WBD CX GOOGL O MRVL COIN VZ PBR DNA M MARA GRAB SNAP ITUB JBLU JNJ PYPL IQ NOK S RGC HPE CSCO ABCM NVDA PCG UBER DISH LCID USB KGC GOLD AMD LI HBAN AMBA RBLX PDD
+--------------------------------------------
+2023-08-31 11:28:34.158015
+Test Accuracy of the model: 34.82
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 0.55
+Confidality bottom limit : 0.51
+XRP-USD ATOM-USD XEC-USD BNB-USD ETH-USD BCH-USD AXS-USD STX-USD GRT-USD SNX-USD BSV-USD AAVE-USD EGLD-USD THETA-USD ETC-USD QNT-USD KAVA-USD LINK-USD APE-USD XMR-USD RNDR-USD SAND-USD DOGE-USD OP-USD MKR-USD NEO-USD TRX-USD CRO-USD FTM-USD IMX-USD OKB-USD RPL-USD INJ-USD BTC-USD MANA-USD NEAR-USD LTC-USD MATIC-USD XDC-USD TON-USD UNI-USD AVAX-USD DOT-USD XTZ-USD EOS-USD RUNE-USD KCS-USD ALGO-USD SOL-USD
+SIRI AFRM C HPE COIN NVDA GRAB PCG PLUG AMZN AI AMD JNJ DISH DKNG LCID GMED WBD SHOP ABEC ABCM XOM META PLTR APL ITUB BAC OPEN PBR APE AAL BABA GOOGL NUVA O RIVN SOFI IONQ SNAP T SWN RBLX DIS BEKE PYPL SCHW RGC NU CCL BBD MARA KGC TSLA CMCSA RUN PFE SU M MSFT HPQ HBAN IQ CSCO AMBA LI VZ RIOT HST MU NIO RIG MRVL PDD GPS USB VALE WFC GOLD S KVUE JBLU CVNA XPEV BSX GOOG KEY NOK DNA ET JD UBER CX
+--------------------------------------------
+2023-08-31 11:30:23.290955
+Test Accuracy of the model: 10.00
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 0.55
+Confidality bottom limit : 0.51
+SAND-USD BCH-USD QNT-USD EGLD-USD IMX-USD BSV-USD OP-USD XTZ-USD LTC-USD AVAX-USD TON-USD THETA-USD ATOM-USD BNB-USD RNDR-USD ETH-USD FTM-USD DOT-USD XRP-USD BTC-USD GRT-USD ALGO-USD KAVA-USD MATIC-USD AAVE-USD XEC-USD CRO-USD SNX-USD KCS-USD ETC-USD DOGE-USD EOS-USD INJ-USD STX-USD MANA-USD RPL-USD SOL-USD NEO-USD XMR-USD NEAR-USD UNI-USD MKR-USD OKB-USD XDC-USD RUNE-USD LINK-USD TRX-USD APE-USD AXS-USD
+GMED SU BBD META PFE PYPL SCHW DNA O MU PCG ABCM BAC XOM MRVL SNAP BSX AI USB NVDA SIRI HST WBD KGC HPQ IQ NIO NU AFRM GOOG S PLTR KEY HPE NUVA PLUG JBLU T APE VZ PDD SWN CX RUN LI RIVN CMCSA DKNG TSLA RGC ET RIOT C APL JNJ MSFT DISH MARA CCL KVUE OPEN IONQ GPS LCID CVNA GRAB NOK CSCO AMBA HBAN XPEV RBLX JD VALE COIN SOFI WFC ITUB GOOGL BEKE DIS GOLD SHOP ABEC AMZN M RIG AAL AMD PBR BABA UBER
+--------------------------------------------
+2023-08-31 11:34:25.366677
+Test Accuracy of the model: 10.00
+Correct: 3
+Wrong: 27
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 0.55
+Confidality bottom limit : 0.51
+XDC-USD MKR-USD DOGE-USD THETA-USD NEO-USD QNT-USD BCH-USD BSV-USD FTM-USD NEAR-USD KAVA-USD UNI-USD APE-USD LINK-USD MANA-USD LTC-USD IMX-USD TON-USD STX-USD XEC-USD RUNE-USD TRX-USD SNX-USD AVAX-USD OKB-USD MATIC-USD INJ-USD DOT-USD ETC-USD EOS-USD GRT-USD RPL-USD XTZ-USD XRP-USD ALGO-USD AAVE-USD OP-USD BNB-USD SOL-USD ATOM-USD AXS-USD SAND-USD XMR-USD RNDR-USD KCS-USD EGLD-USD CRO-USD BTC-USD ETH-USD
+IQ AAL PCG CVNA UBER KGC PFE SNAP HBAN PDD CMCSA USB NU ABCM WBD SHOP SCHW DIS XOM ABEC NIO S NUVA SU GOLD CSCO OPEN BEKE IONQ AMBA PLTR ET GPS CX PBR LI DNA NVDA C KEY T RGC O VZ RBLX SIRI APE RIG HST APL VALE META GRAB AMD PYPL ITUB KVUE RIOT GMED RUN TSLA CCL BBD JNJ PLUG HPQ XPEV MARA BABA SWN JBLU MU LCID DISH JD MSFT GOOG COIN NOK DKNG AFRM HPE AI WFC MRVL AMZN M RIVN BSX SOFI BAC GOOGL
+--------------------------------------------
+2023-08-31 11:36:21.487215
+Test Accuracy of the model: 10.00
+Correct: 3
+Wrong: 27
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 0.55
+Confidality bottom limit : 0.51
+XRP-USD THETA-USD RUNE-USD MATIC-USD STX-USD BCH-USD XTZ-USD EGLD-USD NEAR-USD FTM-USD LTC-USD KAVA-USD TON-USD QNT-USD SAND-USD TRX-USD AVAX-USD BSV-USD XDC-USD CRO-USD RPL-USD XEC-USD LINK-USD DOT-USD MKR-USD INJ-USD MANA-USD NEO-USD ATOM-USD EOS-USD DOGE-USD AXS-USD ETC-USD APE-USD UNI-USD OP-USD IMX-USD RNDR-USD XMR-USD GRT-USD ALGO-USD BNB-USD ETH-USD SOL-USD KCS-USD BTC-USD OKB-USD SNX-USD AAVE-USD
+SWN AMBA NUVA MARA IONQ SOFI GPS PYPL S C VZ DNA UBER GOOG CCL DIS KGC AMD NOK SCHW ITUB META OPEN RIG DISH ABEC USB KEY HST BAC BBD AAL SU XPEV T JD AFRM APL RGC RUN LI WFC LCID SHOP RBLX CX M AI RIVN O AMZN HBAN ET JBLU MSFT XOM PFE TSLA PBR HPQ CSCO BEKE CVNA COIN GOOGL PCG PLTR NVDA GOLD SNAP NU HPE KVUE DKNG ABCM WBD BSX PDD GRAB MU GMED MRVL PLUG NIO CMCSA RIOT VALE BABA SIRI APE JNJ IQ
+--------------------------------------------
+2023-08-31 11:37:58.906895
+Test Accuracy of the model: 34.80
+Correct: 308
+Wrong: 577
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+EGLD-USD FTM-USD MKR-USD KCS-USD OKB-USD XRP-USD IMX-USD DOT-USD AVAX-USD ETC-USD RUNE-USD INJ-USD LINK-USD THETA-USD SNX-USD BTC-USD QNT-USD RNDR-USD BSV-USD TRX-USD BCH-USD XDC-USD SAND-USD APE-USD LTC-USD NEO-USD ALGO-USD KAVA-USD XMR-USD ETH-USD UNI-USD ATOM-USD MANA-USD MATIC-USD XEC-USD NEAR-USD SOL-USD TON-USD AXS-USD EOS-USD DOGE-USD XTZ-USD CRO-USD OP-USD AAVE-USD BNB-USD RPL-USD STX-USD GRT-USD
+RUN VALE NOK RIOT BAC ITUB GMED VZ CMCSA ET NIO PBR O SIRI RIG PLUG KVUE NU IQ XOM ABCM MRVL DNA AAL HBAN APE MSFT CCL M PLTR KGC ABEC HST JD AMZN SCHW BBD GOOG WBD GRAB T PFE SNAP WFC GOOGL AMBA MARA MU KEY IONQ LCID META LI PCG JNJ RIVN OPEN BSX DISH SWN CVNA DIS XPEV PDD BEKE UBER CX RBLX GPS CSCO USB GOLD HPE HPQ S JBLU NVDA SU NUVA APL AI SHOP C DKNG RGC AFRM COIN SOFI TSLA AMD BABA PYPL
+--------------------------------------------
+2023-08-31 11:48:24.794476
+Test Accuracy of the model: 35.76
+Correct: 319
+Wrong: 573
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+ATOM-USD LINK-USD FTM-USD OP-USD SNX-USD XEC-USD RNDR-USD IMX-USD GRT-USD THETA-USD OKB-USD LTC-USD DOT-USD ETH-USD XTZ-USD AVAX-USD QNT-USD MKR-USD DOGE-USD TRX-USD BCH-USD ALGO-USD SAND-USD UNI-USD XDC-USD STX-USD CRO-USD ETC-USD INJ-USD RUNE-USD SOL-USD KCS-USD AAVE-USD RPL-USD XRP-USD EGLD-USD AXS-USD MANA-USD BNB-USD KAVA-USD TON-USD BSV-USD BTC-USD NEAR-USD XMR-USD EOS-USD APE-USD NEO-USD MATIC-USD
+VZ APE COIN LCID PCG PDD PLTR DNA PYPL KEY VALE WBD HST AMD BABA GOOG GOLD DKNG NOK BAC LI NIO RUN RIOT ITUB DISH HPQ ABEC CMCSA C SU GMED T IONQ GOOGL CCL RGC AMBA AI GRAB CSCO SHOP S MRVL XOM BEKE MU SWN HPE SIRI DIS JNJ M ET BSX RBLX KGC AMZN RIG MARA WFC APL ABCM UBER IQ SOFI BBD PLUG AAL O SNAP GPS JBLU JD HBAN META PBR SCHW CX CVNA NU OPEN XPEV MSFT KVUE TSLA NUVA AFRM NVDA RIVN PFE USB
+--------------------------------------------
+2023-09-01 08:21:06.708309
+Test Accuracy of the model: 41.04
+Correct: 291
+Wrong: 418
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+JD IQ TSLA ABCM LI HST RIG USB MARA PLUG O DISH AMZN MU SNAP KVUE BABA GMED HPQ NIO DKNG PBR DIS NOK HBAN SWN C SHOP AI DNA GOOGL JNJ KGC ABEC SIRI RIVN SU OPEN HPE ITUB BBD AAL APL CCL GOOG CSCO KEY RUN NVDA AMD SCHW WFC BSX ET S GRAB AMBA IONQ XOM UBER NUVA PYPL AFRM T NU COIN BAC PCG MRVL JBLU WBD PLTR APE PFE VZ XPEV LCID CMCSA GOLD MSFT CVNA SOFI RIOT GPS VALE PDD RGC M BEKE META RBLX CX
+--------------------------------------------
+2023-09-01 08:25:24.692506
+Test Accuracy of the model: 38.30
+Correct: 342
+Wrong: 551
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+BAC BSX SHOP CX C HPE ITUB AMD VZ S GOLD RBLX GMED MSFT RIG M AI CVNA NVDA GRAB CSCO NU RIOT PYPL MRVL O COIN AAL APL KEY XOM META MU CCL WBD APE HBAN RIVN PLTR ET GPS SOFI SIRI BEKE VALE AMBA PCG PDD JD GOOG RGC JBLU T IONQ SNAP UBER AMZN BABA SCHW CMCSA USB SU GOOGL HST LI PFE PLUG DIS DISH HPQ DNA TSLA RUN AFRM OPEN ABCM LCID SWN IQ ABEC NOK MARA PBR KVUE BBD XPEV WFC JNJ NUVA NIO KGC DKNG
+--------------------------------------------
+2023-09-01 08:26:28.469252
+Test Accuracy of the model: 37.87
+Correct: 381
+Wrong: 625
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.3
+
+M S META CVNA ABEC VZ CCL PBR ABCM KVUE IONQ HBAN PYPL RIG GOOG BSX PCG PFE HPE JNJ CMCSA HST RBLX NIO JD SWN MU RIOT KEY ET WBD KGC GOOGL O AMBA GRAB WFC AAL SCHW MRVL LCID UBER MSFT VALE GOLD DKNG SIRI PDD GPS CSCO DISH SNAP BAC C APL NOK NU OPEN RGC NUVA TSLA SU JBLU ITUB CX COIN PLUG XOM AMD NVDA IQ SHOP USB AI PLTR MARA LI AMZN DIS T RIVN RUN BABA BBD APE HPQ DNA AFRM SOFI BEKE XPEV GMED
+--------------------------------------------
+2023-09-01 08:27:09.349055
+Test Accuracy of the model: 41.00
+Correct: 262
+Wrong: 377
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+
+BABA NOK RIVN BAC XPEV SOFI VALE APE HST ET UBER BEKE SNAP DISH PLUG HPE DKNG PLTR CMCSA SU RBLX KVUE VZ OPEN AMD META ITUB APL RUN GPS PFE PYPL DIS JD C MRVL SIRI SCHW CCL KEY AAL GOOG AI GOOGL PCG COIN SHOP MSFT O XOM PDD GMED RIG GRAB M NUVA ABCM IQ HBAN NU SWN HPQ JBLU WFC DNA LI USB MARA TSLA LCID AMZN RIOT WBD S MU IONQ JNJ GOLD ABEC RGC T BBD CVNA NIO NVDA CSCO PBR BSX AMBA KGC AFRM CX
+--------------------------------------------
+2023-09-01 08:27:47.594920
+Test Accuracy of the model: 42.40
+Correct: 226
+Wrong: 307
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.95
+
+T GOOGL KVUE RGC SWN SHOP JNJ BSX KGC WFC WBD BAC DNA CSCO LCID HST BBD MSFT RIG RUN HBAN M C JD ABCM AMZN O IQ GMED PCG AMBA BABA RBLX JBLU AI APL S AAL XPEV NIO MARA OPEN COIN SOFI IONQ APE PDD ITUB VZ GOLD ET MRVL MU HPE AFRM PFE NU LI SIRI CMCSA AMD PYPL SCHW RIOT UBER ABEC PLTR GRAB XOM NVDA NOK PBR VALE DIS KEY META CCL DISH NUVA GPS CX DKNG CVNA USB TSLA GOOG SU SNAP HPQ RIVN PLUG BEKE
+--------------------------------------------
+2023-09-01 08:47:34.113150
+Test Accuracy of the model: 36.93
+Correct: 291
+Wrong: 497
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+MU RUN GRAB PDD SNAP COIN AI AAL CSCO APE GOLD PBR PLUG GOOG SWN GMED ABCM BBD NUVA SIRI IONQ AMD JD O MSFT DIS WFC XOM T PYPL BABA SOFI LCID KEY META CX NIO MRVL VALE SHOP RBLX NU JBLU M PLTR CVNA LI RGC DISH CCL KVUE ITUB DKNG BSX TSLA AMZN NVDA WBD PCG HBAN SCHW APL ET HST RIG BEKE XPEV PFE GOOGL IQ JNJ AFRM HPQ MARA USB HPE RIVN CMCSA ABEC AMBA C RIOT S KGC VZ GPS NOK DNA BAC SU UBER OPEN
+--------------------------------------------
+2023-09-01 08:49:36.247590
+Test Accuracy of the model: 36.03
+Correct: 205
+Wrong: 364
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.9
+
+IONQ SHOP SNAP RIVN HST KVUE KEY APL JD MARA SIRI DIS COIN CSCO AMZN OPEN PLTR NOK T DNA GOLD JBLU ABEC NU BBD AMD PDD BEKE MRVL PCG BSX SOFI WBD WFC RGC SCHW MU VZ DKNG SU HPE VALE GOOGL HBAN APE ET JNJ CMCSA PYPL AMBA MSFT NUVA IQ UBER LI M HPQ CCL RBLX TSLA DISH LCID XPEV O PLUG GMED BAC ITUB RIOT GOOG META RIG PBR AI PFE USB RUN C SWN XOM NVDA AFRM NIO CVNA ABCM GRAB GPS S BABA CX KGC AAL
+--------------------------------------------
+2023-09-01 08:56:16.280691
+Test Accuracy of the model: 37.26
+Correct: 288
+Wrong: 485
+Stop Loss level        : 0.08
+Take Profit level    : 0.16
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+ET AFRM BEKE SCHW JNJ XPEV RBLX AMD WFC RGC KEY SOFI SU NUVA CX SHOP HPQ NU PFE KVUE PLTR XOM APE PYPL KGC DNA APL C O RUN PLUG NVDA PDD HPE BAC T NOK DISH JD NIO GMED RIVN MSFT DKNG SWN GOOGL VALE BSX AI BABA JBLU LCID SNAP OPEN HST TSLA PBR ABEC GPS CSCO IQ RIG MU MRVL SIRI M ABCM HBAN GOLD BBD CMCSA AMZN COIN USB PCG WBD AMBA S RIOT MARA GOOG AAL UBER VZ CCL GRAB CVNA ITUB META DIS IONQ LI
+--------------------------------------------
+2023-09-01 09:08:09.092958
+Test Accuracy of the model: 27.76
+Correct: 98
+Wrong: 255
+Stop Loss level        : 0.02
+Take Profit level    : 0.04
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+BAC XOM ITUB PFE AAL GOOGL HPE PDD RIG KGC NU AI NUVA ABEC IQ MRVL NOK C BEKE DISH APL PLUG T GOLD DKNG APE RIVN SNAP O SOFI META HST S XPEV MARA UBER CVNA PCG BBD AMZN AMD NIO SWN WBD AFRM ET DNA MU USB JD CSCO KEY WFC LI RGC GRAB LCID GMED RBLX DIS SHOP OPEN HBAN MSFT IONQ TSLA SCHW PYPL VALE JNJ BABA GPS NVDA RIOT PBR M CCL COIN RUN JBLU CX SU KVUE CMCSA PLTR ABCM SIRI BSX GOOG HPQ VZ AMBA
+--------------------------------------------
+2023-09-01 09:19:18.718324
+Test Accuracy of the model: 37.52
+Correct: 215
+Wrong: 358
+Stop Loss level        : 0.06
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+JNJ WFC S META PDD NUVA DKNG RBLX GMED SOFI CX ET NIO HBAN LI APL RIVN USB CMCSA VZ O APE MSFT PYPL JD GRAB BEKE WBD LCID KGC GOLD C TSLA UBER BAC T KVUE XPEV OPEN MARA GOOG M PCG IQ IONQ CCL DNA CVNA PLTR NU JBLU RUN NOK ITUB HPE BABA BSX DIS SIRI PBR RIG HPQ BBD RGC SHOP GPS AFRM AMBA GOOGL PLUG SNAP MRVL SU COIN XOM HST DISH SCHW ABCM AI KEY ABEC AAL NVDA SWN AMZN PFE AMD VALE MU RIOT CSCO
+--------------------------------------------
+2023-09-01 09:58:21.162994
+Test Accuracy of the model: 38.97
+Correct: 265
+Wrong: 415
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+RIG GRAB DISH RIVN MSFT SIRI IQ CVNA DKNG SOFI CCL AMD PDD CSCO WBD PFE SU GOLD SHOP BBD VZ BEKE RIOT SNAP KVUE APE GOOGL VALE JD AMZN USB NIO O CX UBER NOK MARA ABCM RGC DIS PLUG GPS PLTR RUN LI SWN M KGC ABEC NUVA META ET JNJ RBLX OPEN XPEV COIN T SCHW HPE BABA C AI MU TSLA XOM CMCSA KEY PYPL AAL WFC AMBA PCG HPQ APL ITUB AFRM IONQ MRVL PBR NU HST HBAN BAC DNA S BSX LCID GMED JBLU GOOG NVDA
+--------------------------------------------
+2023-09-01 10:06:03.350090
+Test Accuracy of the model: 38.53
+Correct: 215
+Wrong: 343
+Stop Loss level        : 0.04
+Take Profit level    : 0.08
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+HPE XOM OPEN JNJ MU DKNG LCID ABCM GOLD JBLU USB KGC RIOT T AMBA GOOGL BEKE NU UBER PCG RBLX NVDA CVNA CSCO TSLA AI NIO ABEC AMZN C PLUG DNA AAL SOFI IQ BABA HBAN GRAB RIG VALE CX NUVA RUN PFE DIS LI VZ HST MRVL ITUB XPEV HPQ SCHW BSX ET IONQ M META RIVN PYPL SIRI GOOG S JD AMD PBR RGC SU COIN BAC PDD KEY MARA WBD SWN PLTR MSFT AFRM GMED BBD GPS DISH CMCSA SNAP WFC O KVUE NOK APL SHOP APE CCL
+--------------------------------------------
+2023-09-01 10:13:37.060793
+Test Accuracy of the model: 29.00
+Correct: 163
+Wrong: 399
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+LCID RIOT MRVL GPS RIG RUN SNAP C AFRM T HBAN WBD IONQ MSFT GRAB BBD PFE S USB RGC RIVN SWN CVNA PDD PBR OPEN ITUB AMD ET LI KGC NUVA SU BSX BEKE NVDA JBLU VZ MARA META HST GOOGL IQ KEY DNA COIN GMED WFC SOFI NOK XOM BABA ABCM PCG RBLX BAC NU PLUG GOOG TSLA CSCO JD AMBA APE HPE DIS MU KVUE SHOP HPQ VALE SIRI NIO CX AI PYPL CCL O ABEC AAL PLTR APL SCHW JNJ DISH M DKNG XPEV CMCSA AMZN UBER GOLD
+--------------------------------------------
+2023-09-01 10:25:41.096919
+Test Accuracy of the model: 18.52
+Correct: 5
+Wrong: 22
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+IONQ M AMD PCG PDD HPE CVNA NOK NUVA CCL CX GOLD RIOT PLTR VALE GOOGL XPEV BAC OPEN SNAP GMED DISH HST UBER MSFT PBR DKNG JBLU LI XOM WBD APE GRAB ET HPQ BEKE GPS SHOP T PFE TSLA PYPL BSX HBAN RIG JNJ O AI MARA BBD RIVN BABA SOFI SU KVUE SCHW VZ USB MU DIS RGC NIO CSCO APL AAL DNA GOOG RUN IQ PLUG AMZN SIRI LCID KGC RBLX AFRM ITUB CMCSA S WFC AMBA ABEC COIN NU JD C ABCM MRVL KEY META NVDA SWN
+--------------------------------------------
+2023-09-01 10:33:13.654682
+Test Accuracy of the model: 26.20
+Correct: 120
+Wrong: 338
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+ET VALE PLUG AAL META SNAP IQ SIRI T CX KVUE CSCO NOK AMZN PFE GOLD RIG DKNG SWN NUVA UBER CVNA HBAN OPEN ABEC KEY LCID GOOG RBLX PCG DIS SCHW JD NVDA C SOFI RGC APL HPE PYPL KGC DNA BBD SHOP DISH BSX CMCSA RUN SU JNJ BABA MU NU MRVL XPEV USB ITUB GRAB CCL WBD MARA WFC M VZ NIO COIN AMBA RIVN PLTR HST AMD GOOGL IONQ PDD TSLA JBLU BAC HPQ MSFT BEKE AI LI APE AFRM GMED RIOT GPS ABCM S O XOM PBR
+--------------------------------------------
+2023-09-01 10:43:22.472713
+Test Accuracy of the model: 30.42
+Correct: 94
+Wrong: 215
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+SU KGC GOOG LCID PCG SHOP AMBA GOLD OPEN GOOGL DNA MRVL O MU AI JD KVUE AFRM RUN C BAC DKNG APE NVDA VALE AMD PBR GPS META VZ JBLU APL ABCM GMED USB AMZN BEKE M PFE KEY MSFT TSLA PYPL DIS NOK IONQ BSX BBD RGC RIG MARA CCL LI HPE CMCSA ABEC COIN ET PLUG CX JNJ WBD CVNA XPEV UBER NIO PLTR BABA T SIRI S SOFI ITUB HBAN PDD NU AAL DISH IQ SWN CSCO SNAP RIVN GRAB XOM SCHW HPQ RIOT RBLX HST WFC NUVA
+--------------------------------------------
+2023-09-01 11:02:04.209468
+Test Accuracy of the model: 31.91
+Correct: 210
+Wrong: 448
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+CMCSA USB SNAP TSLA APE GPS DKNG SU META DNA COIN BAC WBD AFRM RUN CX ET IONQ ABCM OPEN S C GMED NIO GRAB BBD RIOT RIVN PYPL HPQ LCID PLTR CCL PCG AMBA AMZN LI SWN T VALE XPEV NU KVUE O NOK NVDA RBLX MSFT JBLU M JNJ PLUG GOLD PBR DIS IQ NUVA MU PFE GOOGL AAL WFC UBER XOM VZ AMD GOOG HBAN SHOP APL PDD KGC HST SCHW DISH SIRI JD HPE SOFI BABA AI KEY BEKE ABEC RIG MRVL CVNA RGC MARA CSCO ITUB BSX
+--------------------------------------------
+2023-09-01 11:14:53.740704
+Test Accuracy of the model: 32.19
+Correct: 75
+Wrong: 158
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+SNAP CMCSA LI M AMZN DNA MSFT CX NVDA HBAN C BEKE PLTR SWN XPEV AI RIG NU IQ GOOGL COIN DISH PFE SIRI GRAB HST APE GOOG GOLD RBLX HPE AMD CSCO DIS GMED PYPL CVNA RGC PDD TSLA SOFI RUN UBER META RIOT BABA VALE RIVN APL MARA USB XOM MU PLUG AFRM SCHW JNJ HPQ BSX AAL IONQ ET LCID NOK JBLU VZ ITUB JD O KEY PBR GPS MRVL BBD CCL ABCM AMBA T NIO ABEC OPEN PCG DKNG BAC KGC SU WBD SHOP S KVUE NUVA WFC
+--------------------------------------------
+2023-09-01 11:36:00.660997
+Test Accuracy of the model: 34.48
+Correct: 160
+Wrong: 304
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+UBER OPEN USB KEY ITUB BBD ET LI PYPL SNAP T MU JD AMBA GMED VALE DIS KGC APL SHOP RUN HPE NUVA AMD CX SWN MARA AAL SCHW RIOT META APE BSX BABA MSFT SU IQ JNJ XOM NOK BEKE HST IONQ PFE RIG LCID C ABEC ABCM M PLUG XPEV RIVN RGC CMCSA GPS CCL AFRM MRVL GOOGL WFC COIN KVUE PLTR S GRAB DKNG CSCO PBR HBAN BAC PCG VZ WBD SIRI DNA TSLA PDD RBLX JBLU NIO CVNA DISH AMZN HPQ NU GOLD SOFI NVDA GOOG O AI
+--------------------------------------------
+2023-09-01 11:45:20.901179
+Test Accuracy of the model: 28.85
+Correct: 163
+Wrong: 402
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+MSFT ET GOOGL BEKE PCG GOLD CVNA CCL HPQ ABEC BAC KGC APL TSLA SOFI XOM SIRI HBAN GRAB AAL AFRM LCID HPE RIVN GOOG VALE NUVA JNJ BSX ITUB SNAP KEY SWN GPS LI META PYPL DIS GMED BABA USB HST AMD T AMBA RIOT SHOP PDD NIO BBD DNA SCHW CMCSA RUN NOK AI NVDA PLUG MU M IQ KVUE NU VZ IONQ PBR MARA COIN RGC MRVL CX JBLU AMZN PLTR OPEN O C PFE XPEV CSCO SU APE RIG UBER S DISH JD RBLX WFC WBD DKNG ABCM
+--------------------------------------------
+2023-09-01 11:51:16.447123
+Test Accuracy of the model: 30.79
+Correct: 105
+Wrong: 236
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+SHOP JBLU NUVA UBER AAL PCG PFE GMED COIN CX DIS NOK GPS JD NU BSX RUN CVNA PLUG KGC ABEC USB RBLX IQ GOLD HPE CMCSA GRAB SWN DNA DKNG XOM SU DISH LI PBR TSLA LCID BEKE T O RIOT VZ AMZN WBD XPEV MARA MSFT PYPL AI HPQ APL KEY PDD CCL VALE ABCM IONQ C GOOG SIRI PLTR SOFI WFC SCHW GOOGL MU S HBAN KVUE NIO RIVN OPEN BABA ITUB RGC JNJ AMBA AMD RIG HST AFRM MRVL ET NVDA SNAP APE BAC CSCO M BBD META
+--------------------------------------------
+2023-09-01 11:54:17.382864
+Test Accuracy of the model: 27.43
+Correct: 141
+Wrong: 373
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+KGC META GOOGL SNAP USB RIOT DISH NUVA ABEC NVDA APL LI APE MSFT JBLU OPEN SIRI NU AMZN HPE DIS RIVN GPS AAL JNJ O WFC DKNG CX VALE BSX BEKE CVNA SOFI HST KEY AFRM PLTR LCID T BBD PLUG NOK RUN RIG JD IQ M SWN BAC SHOP GOLD CMCSA C XOM KVUE ITUB UBER VZ ABCM AMBA AI BABA SU PYPL GRAB PDD GOOG HBAN PCG GMED CCL PFE PBR CSCO MU HPQ RBLX ET RGC TSLA XPEV COIN WBD MRVL IONQ SCHW AMD MARA S NIO DNA
+--------------------------------------------
+2023-09-01 12:12:35.166570
+Test Accuracy of the model: 31.70
+Correct: 129
+Wrong: 278
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+PYPL JD HPQ AFRM GOOG AMZN C UBER OPEN NOK GOLD BBD NUVA PDD IQ WFC XOM APL S LI CMCSA AMD M HST HBAN KEY PBR CCL AI CX KGC NU ABCM MRVL LCID IONQ AAL TSLA RIVN WBD SIRI VALE SHOP RBLX ET USB CSCO PLUG PFE SNAP JNJ NIO APE DNA KVUE PLTR DISH T MARA PCG JBLU HPE BEKE BSX AMBA CVNA DIS RIOT ABEC RIG BAC RGC GPS DKNG GOOGL MSFT MU ITUB GRAB SWN SOFI SU COIN O META SCHW VZ BABA RUN XPEV NVDA GMED
+--------------------------------------------
+2023-09-01 12:17:02.320990
+Test Accuracy of the model: 30.13
+Correct: 119
+Wrong: 276
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+AI PLUG PFE BBD SIRI COIN KGC NVDA NUVA PLTR HPE XOM RIG GPS IONQ KVUE T PCG CMCSA APE BSX SU WBD DIS KEY PYPL JBLU XPEV BEKE DISH S HBAN SWN RIVN CVNA WFC RIOT HST CX MU VALE PDD C MARA AMBA BAC AMD GMED USB LCID LI ITUB O JD APL JNJ PBR HPQ RGC AFRM CSCO CCL UBER ABCM RBLX SOFI TSLA META SNAP GOLD VZ IQ ET AAL DNA AMZN RUN NU GRAB DKNG OPEN ABEC NIO BABA NOK GOOG MSFT SHOP GOOGL MRVL M SCHW
+--------------------------------------------
+2023-09-13 09:17:58.014479
+Test Accuracy of the model: 66.67
+Correct: 2
+Wrong: 1
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+ET AMBA OPEN CVNA SWN AFRM RGC GMED WBD CX VALE IQ SNAP BABA KGC MARA MRVL JBLU VZ USB AMZN APE ABCM AAL ABEC DNA NU PBR PYPL JD NIO JNJ SU IONQ AI RIOT HBAN M CMCSA HST T RUN BBD COIN GOOGL RBLX NVDA ITUB WFC HPQ KVUE RIG C DKNG UBER LCID PCG MU RIVN XPEV BSX DIS NOK PFE TSLA SHOP SCHW SOFI DISH PLTR CSCO LI PDD APL GRAB HPE PLUG BEKE S META CCL XOM NUVA O AMD SIRI GOLD BAC GPS MSFT GOOG KEY
+--------------------------------------------
+2023-09-13 09:24:43.332012
+Test Accuracy of the model: 33.33
+Correct: 11
+Wrong: 22
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+BSX T LCID SOFI TSLA MSFT AI GOLD S SIRI APL OPEN UBER CVNA MARA BEKE CMCSA RGC O USB JNJ JBLU NIO GPS GRAB ET KVUE META GOOGL CCL DKNG DNA SCHW HBAN CX CSCO RBLX M AAL RIOT BBD BABA RIVN PFE AMD GOOG KEY PBR SHOP HST RUN PYPL NOK AFRM APE PCG WBD DISH SWN KGC COIN IQ ITUB DIS C PLTR VZ VALE LI AMBA HPE ABEC MU XPEV HPQ WFC PLUG XOM NUVA SNAP MRVL GMED AMZN JD PDD ABCM IONQ NVDA SU NU BAC RIG
+--------------------------------------------
+2023-09-13 09:28:44.218753
+Test Accuracy of the model: 30.40
+Correct: 166
+Wrong: 380
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+TSLA GOOGL GOOG M PLUG GOLD AMBA LI AMZN MRVL AAL VALE HST CX META DISH JD BABA GRAB SU PCG PDD CMCSA XOM APL O JNJ AMD BSX HBAN RIOT OPEN IQ BAC ITUB SNAP VZ MSFT CVNA AI DIS PYPL AFRM NVDA NUVA WFC SWN ABEC GPS SIRI UBER MARA SOFI S BBD IONQ ABCM PLTR CCL DKNG KEY NIO CSCO T NOK MU XPEV KGC JBLU KVUE LCID ET C USB RUN DNA PFE RIG HPE NU WBD RGC RIVN COIN HPQ RBLX BEKE GMED SCHW PBR SHOP APE
+--------------------------------------------
+2023-09-13 09:33:28.581182
+Test Accuracy of the model: 28.75
+Correct: 165
+Wrong: 409
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+PFE WFC LI JBLU RIVN SOFI KVUE DNA DISH AMBA COIN JNJ BSX NU IONQ GOOG MARA AFRM ITUB O BAC M RBLX GRAB PLUG HBAN RIG BABA ABCM PBR PYPL GPS SWN NVDA KEY NUVA ABEC NOK TSLA SIRI AMZN AAL VALE KGC C APL OPEN MRVL RIOT HST XOM USB META T LCID SNAP BBD PLTR UBER JD DKNG DIS IQ APE SHOP XPEV ET SU PDD RGC S CCL PCG GOLD MSFT BEKE HPQ CX NIO HPE AMD GOOGL VZ RUN SCHW CVNA CMCSA CSCO GMED AI MU WBD
+--------------------------------------------
+2023-09-13 09:39:12.114980
+Test Accuracy of the model: 29.66
+Correct: 148
+Wrong: 351
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+LCID SWN SIRI NVDA GMED NIO WFC USB AFRM NUVA SOFI PFE PYPL XPEV BABA SU CSCO BBD C SNAP GOLD APL VALE CX JBLU JNJ MSFT IQ BEKE KEY AMBA CMCSA HPQ TSLA RIOT ABCM AI VZ DKNG CVNA PLUG LI BSX ITUB WBD AMD HPE RIVN GOOGL BAC HST KGC APE SHOP O JD META AAL KVUE DISH PDD NOK SCHW GOOG UBER ABEC PCG GRAB RBLX NU PLTR HBAN MARA S DIS MU AMZN ET RUN XOM GPS DNA MRVL OPEN COIN CCL RGC M IONQ T PBR RIG
+--------------------------------------------
+2023-09-13 09:48:58.659175
+Test Accuracy of the model: 29.09
+Correct: 135
+Wrong: 329
+Stop Loss level        : 0.04
+Take Profit level    : 0.12
+Use volume data : True
+Use candlewick data : False
+History Length : 120
+Use crypto only : False
+Confidality upper limit : 1
+Confidality bottom limit : 0.5
+
+BABA NIO HST T RIOT ABEC CCL LI RUN APL SOFI PYPL JNJ BBD DNA NOK DIS DKNG NVDA AMBA BEKE OPEN VZ C VALE RBLX CVNA HPQ KVUE GOOG COIN CX GPS M JD PDD CMCSA IQ ITUB JBLU ABCM IONQ MRVL AMZN AAL TSLA S PLUG PLTR XPEV PCG LCID GMED HBAN GOLD GOOGL SCHW ET RIVN AFRM RIG SU XOM WFC WBD O APE BAC HPE DISH PFE UBER KEY SIRI SWN USB SNAP AI SHOP AMD META MSFT BSX CSCO KGC PBR MU GRAB NU RGC NUVA MARA
+----------------------
